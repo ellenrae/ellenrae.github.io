@@ -1,7 +1,7 @@
 body {
   text-align: center;
   padding:200px;
-  background: url("https://assets.bonappetit.com/photos/5922f8e3d47a6310b153e8af/16:9/w_2560,c_limit/skillet-pizza-bianca-with-spring-greens-and-an-egg.jpg");
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../images/skillet-pizza-bianca-with-spring-greens-and-an-egg.jpg");
   background-size: cover;
   color: #fff;
   font-family: Helvetica;
@@ -10,5 +10,5 @@ hr{
   width: 200px;
 }
 p {
-  font-size:25px;
+  font-size:22px;
 }
